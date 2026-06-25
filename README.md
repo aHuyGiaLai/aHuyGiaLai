@@ -38,10 +38,6 @@ class VoGiaHuy:
         self.location = "Thu Duc City, Vietnam 🇻🇳"
         self.workflow = ["Arch Linux", "Hyprland", "Neovim", "Obsidian"]
         self.interests = ["Machine Learning", "CODE Framework", "Data Structures"]
-        self.hobbies = ["Fingerstyle Guitar 🎸", "5km Running 🏃‍♂️"]
-        self.fun_fact = (
-            "I rice my Linux setup by day and "
-            "play 'Diễm Xưa' on my guitar by night 🎹"
         )
 ```
 
