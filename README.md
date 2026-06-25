@@ -10,7 +10,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/aHuyGiaLai">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Data+Science+Student+@+HCMUS;Arch+Linux+%2B+Neovim+Enthusiast;Building+AI+Bots+%F0%9F%A4%96;Fingerstyle+Guitarist+🎸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Data+Science;Arch+Linux+%2B+Neovim+Enthusiast;Building+AI+Bots+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
