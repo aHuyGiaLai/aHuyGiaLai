@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/aHuyGiaLai">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Võ%20Gia%20Huy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%E2%80%A2%20Linux%20Enthusiast%20%E2%80%A2%20Tutor&descAlignY=58&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Võ%20Gia%20Huy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&descSize=20" alt="header" />
 </a>
 
 <!-- Typing animation -->
